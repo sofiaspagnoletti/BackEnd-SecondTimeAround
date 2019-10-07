@@ -1,28 +1,28 @@
 {
     "development": {
-      "username": "root",
-      "password": "123123123",
-      "database": "secondtime_db",
-      "host": "127.0.0.1",
+      "username": "gl8780jrj3zsem7t",
+      "password": "v44nmeia6qav0oyv",
+      "database": "hti5u0nzqa7i2vwl",
+      "host": "gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
       "port": 3306,
       "dialect": "mysql"
     },
     "test": {
-      "username": "root",
-      "password": null,
-      "database": "database_test",
-      "host": "127.0.0.1",
+      "username": "gl8780jrj3zsem7t",
+      "password": "v44nmeia6qav0oyv",
+      "database": "hti5u0nzqa7i2vwl",
+      "host": "gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
       "port": 3306,
       "dialect": "mysql"
     },
     "production": {
-      "username": "root",
-      "password": null,
-      "database": "database_production",
-      "host": "127.0.0.1",
+      "username": "gl8780jrj3zsem7t",
+      "password": "v44nmeia6qav0oyv",
+      "database": "hti5u0nzqa7i2vwl",
+      "host": "gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
       "port": 3306,
       "dialect": "mysql",
-      "use_env_variable":"JAWSDB_URL" 
+      "use_env_variable":"mysql://gl8780jrj3zsem7t:v44nmeia6qav0oyv@gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/hti5u0nzqa7i2vwl" 
     }
   }
   
