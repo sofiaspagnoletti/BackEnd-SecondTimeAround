@@ -1,0 +1,27 @@
+{
+  "name": "backend-secondtimearound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiaspagnoletti/BackEnd-SecondTimeAround.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiaspagnoletti/BackEnd-SecondTimeAround/issues"
+  },
+  "homepage": "https://github.com/sofiaspagnoletti/BackEnd-SecondTimeAround#readme"
+}
