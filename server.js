@@ -3,7 +3,8 @@ var express = require("express");
 // Sets up the Express App
 // =============================================================
 var app = express();
-var PORT = process.env.PORT || 8080;
+// var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || "mysql://gl8780jrj3zsem7t:v44nmeia6qav0oyv@gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/hti5u0nzqa7i2vwl";
 
 // Requiring our models for syncing
 var db = require("./models");
